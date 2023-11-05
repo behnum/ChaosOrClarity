@@ -4,6 +4,10 @@
 
 Welcome to the "Chaos or Clarity" research project repository. This project focuses on sentiment analysis and data compilation for my thesis paper titled "[Chaos or Clarity: A Corpus-Assisted Analysis of Top Comments on Jordan Peterson's Controversial YouTube Videos.](https://scholar.google.com/scholar?q=Chaos%20or%20Clarity%3A%20A%20Corpus-Assisted%20Analysis%20of%20Top%20Comments%20on%20Jordan%20Peterson%27s%20Controversial%20YouTube%20Videos)" The full research paper is available on [Google Scholar](https://scholar.google.com/scholar?q=Chaos%20or%20Clarity%3A%20A%20Corpus-Assisted%20Analysis%20of%20Top%20Comments%20on%20Jordan%20Peterson%27s%20Controversial%20YouTube%20Videos).
 
+## Screenshot
+
+![Screenshot](process.jpg "Screenshot")
+
 ## Python Scripts
 
 In this repository, you will find a collection of Python scripts that are instrumental in the research project. Each script serves a specific role in contributing to the creation of the final dataset for the study. Two primary approaches are used for sentiment analysis:
