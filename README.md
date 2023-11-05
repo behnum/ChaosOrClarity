@@ -36,4 +36,4 @@ This research project was made possible through the invaluable support of my fam
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/behnum/ChaosOrClarity/blob/main/LICENSE) file for details.
